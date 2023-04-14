@@ -37,7 +37,7 @@ Language: SQL
 Project file: [Rsvp movie case study](https://github.com/AmrutaKapse1/DS_Projects/blob/main/RSVP_Movies_Case_Study/IMDB%2Bquestion.sql)
 
 ### 6. Telecom Churn Case Study:
-Description: Analysing customer-level data of a leading telecom firm, building predictive models to identify customers at high risk of churn and identifying the main indicators of churn.
+Description: Analysing customer-level data of a leading telecom firm, building predictive models to identify customers at high risk of churn  using dimensionality reduction technique such as PCA and identifying the main indicators of churn using classification model.
 
 Language: Python
 
